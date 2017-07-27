@@ -1,0 +1,13 @@
+html {
+	background-color: black;
+}
+
+p {
+	font-size: 12px; 
+	font-family: "Consolas", Lucida, monospace;
+	color: white
+}
+
+#author {
+	font-size: 25px;
+}

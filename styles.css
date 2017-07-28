@@ -11,3 +11,14 @@ p {
 #author {
 	font-size: 25px;
 }
+#headers {
+	style=font-size:40px;
+	background-color:white;
+	color:black;
+	text-decoration: underline
+}
+#jar {
+	style=font-size:40px;
+	color:black;
+	white-space:PRE;
+}

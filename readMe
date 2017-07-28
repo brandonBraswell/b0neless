@@ -1,7 +1,0 @@
-# styles.css holds id selectors
-# ZORKwebsite.py is my Zork game in Python
-# FINAL PROJECT (ZORK)
-#   Zork is a text based adventure game originally released in 1980.
-#   Your goal is to reach the end of your journey by collecting items along the way and discovering tiny details that could help you 
-#   progress the story. In my version there are 2 different areas you may start in, the city or the country. So far neither are done but
-#   they work as a proof of concept.
